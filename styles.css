@@ -1,0 +1,43 @@
+div {
+    border: 10px solid blue;
+    padding: 25px;
+    box-shadow: inset 10px 10px 100px 10px #ce0707;
+    background-color: rgb(43, 226, 52);
+}
+
+#pedro {
+    font-style: oblique;
+    color: blue;
+}
+
+#kevin {
+    font-style: italic;
+    color: blue;
+}
+#kevinimage {
+    border: 10px solid purple;
+    border-radius: 50px;
+}
+
+#pedroimage {
+    border: 10px solid fuchsia;
+    border-radius: 50px;
+}
+
+li {
+    font-style: italic;
+    margin: 10px;
+    color: blue;
+}
+
+h1 {
+    color: blue;
+}
+
+#title {
+    color: blueviolet;
+}
+body {
+    background-image: url("screen-crack.gif");
+    background-size: cover;
+}
